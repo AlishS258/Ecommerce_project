@@ -27,7 +27,7 @@ Note: The dataset contains simulated data.
 - Pandas
 - NumPy
 - Matplotlib
-- OpenCV
+- OpenCv
 
 ## Project Structure
 - `main.py` – Main project code
